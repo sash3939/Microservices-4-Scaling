@@ -162,13 +162,11 @@ Kubernetes автоматически масштабирует ваши прил
    ```
 
    Инициализация кластера redis:  
-   ![redis cluster init](./pictures/redis%20cluster%20init.PNG)  
+  
+  <img width="740" alt="Init Redis cluster" src="https://github.com/user-attachments/assets/05dbef7b-997c-49bb-aa12-8a55b327c225">
+  
 
    Информация по запущенным сервисам редиса:
-   ![redis cluster info](./pictures/redis%20cluster%20info.PNG)
 
-### Как оформить ДЗ?
+  <img width="733" alt="running services" src="https://github.com/user-attachments/assets/3be14c6a-d923-44b5-9da5-281d3957753a">
 
-Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
-
----
